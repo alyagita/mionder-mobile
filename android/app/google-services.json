@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "762533539097",
+    "project_id": "pmobprak-cb0d8",
+    "storage_bucket": "pmobprak-cb0d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762533539097:android:46f0e2ffcb65bccbe42988",
+        "android_client_info": {
+          "package_name": "com.example.pmobprak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQpJ_ipSvyCGEWy1RNPQWj5To96MI4IE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
